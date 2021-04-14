@@ -1,5 +1,5 @@
 # Capstone3 Proposals:
-## Timbre Transfer with DDSP:
+## Timbre Transfer and/or AcousticsTransfer with DDSP: DSP-informed Approaches to Sound Style Transfer networks
 ### Data, Sources:
 ```bibtex
 @inproceedings{
