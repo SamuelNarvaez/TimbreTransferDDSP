@@ -12,6 +12,7 @@
   url={https://openreview.net/forum?id=B1x1ma4tDr}
 }
 ```
+[Magenta Page](https://magenta.tensorflow.org/ddsp)
 [Some Exciting Demos](https://storage.googleapis.com/ddsp/index.html)
 ![](media/ddsp_autoencoder.png)
 ### Background:
