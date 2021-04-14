@@ -1,5 +1,5 @@
 # Capstone3 Proposals:
-## Timbre Transfer and/or AcousticsTransfer with DDSP: DSP-informed Approaches to Sound Style Transfer networks
+## Timbre Transfer and/or Acoustics Transfer with DDSP: DSP-informed Approaches to Sound Style Transfer networks
 ### Data, Sources:
 [A Good Selection of Possible Datasets to both train/transfer](https://www.upf.edu/web/mtg/software-datasets)
 ```bibtex
