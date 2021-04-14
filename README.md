@@ -11,6 +11,7 @@
   url={https://openreview.net/forum?id=B1x1ma4tDr}
 }
 ```
+![media/ddsp_autoencoder.png]
 ### Abstract:
 ### Deployment:
 ## Audio Style Transfer with DDSP:
