@@ -1,5 +1,5 @@
 # Capstone3 Proposals:
-## Audio Style Transfer with DDSP:
+## Timbre Transfer with DDSP:
 ### Data, Sources:
 ```bibtex
 @inproceedings{
