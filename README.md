@@ -1,6 +1,6 @@
 # Capstone3 Proposals:
-## Proposal 1:
-### Audio Style Transfer with DDSP:
+## Audio Style Transfer with DDSP:
+### yup:
 #### Abstract
 #### Possible Visualizations
 ## Proposal 2:
