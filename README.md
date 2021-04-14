@@ -1,6 +1,7 @@
 # Capstone3 Proposals:
 ## Timbre Transfer and/or AcousticsTransfer with DDSP: DSP-informed Approaches to Sound Style Transfer networks
 ### Data, Sources:
+[A Good Selection of Possible Datasets to both train/transfer](https://www.upf.edu/web/mtg/software-datasets)
 ```bibtex
 @inproceedings{
   engel2020ddsp,
@@ -11,7 +12,6 @@
   url={https://openreview.net/forum?id=B1x1ma4tDr}
 }
 ```
-[A Good Selection of Possible Datasets to both train/transfer](https://www.upf.edu/web/mtg/software-datasets)
 ![](media/ddsp_autoencoder.png)
 ### Abstract:
   Neural networks (such as WaveNet or GANSynth) can adapt to different datasets but often overfit details of the dataset and are difficult to interpret. Interpretable models (such as musical grammars) use known structure, so they are easier to understand, but have trouble adapting to diverse datasets. DSP (Digital Signal Processing) is one of the backbones of modern society, integral to telecommunications, transportation, audio, and many medical technologies. An incredible amont of knowledge resides in this domain, as the result of many years of research. When approaching audio-based machine learning tasks, it would be shortsighted to take this knowledge for granted.
