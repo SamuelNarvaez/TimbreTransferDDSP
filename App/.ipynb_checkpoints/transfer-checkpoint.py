@@ -85,6 +85,7 @@ class TimbreTransfer():
 
         # Build model by running a batch through it.
         start_time = time.time()
+        print(f'Restoring {self.model_dir}')
         _ = self.model(self.audio_features, training=False)
         print('Restoring model took %.1f seconds' % (time.time() - start_time))
         
