@@ -30,4 +30,4 @@
 ### Deployment:
   Demo the model in realtime as well as with some interesting precomputed examples. Maybe with flask app but more likely steamlit either way utilizing Magenta.js
 
-##[Presentation](https://www.canva.com/design/DAEc4QKYCtw/BbFsCW53gDEnaWwwv-ckvg/edit)
+## [Presentation](https://www.canva.com/design/DAEc4QKYCtw/BbFsCW53gDEnaWwwv-ckvg/edit)
