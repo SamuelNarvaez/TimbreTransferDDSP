@@ -43,6 +43,7 @@ class TimbreTransfer():
             self.audio_features = pickle.load(f)
         self.audio = self.audio_features['audio']
         self.model = None
+        self.outputs = None
         
     def fit(self):
         # Parse the gin config.
@@ -91,8 +92,8 @@ class TimbreTransfer():
         
     def resynth(self):
         # Resynthesize audio.
-        outputs = self.model(self.audio_features, training=False)
-        audio_gen = self.model.get_audio_from_outputs(outputs)
+        self.outputs = self.model(self.audio_features, training=False)
+        audio_gen = self.model.get_audio_from_outputs(self.outputs)
         return audio_gen
         
 
