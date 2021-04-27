@@ -29,11 +29,5 @@
   Using the DDSP library, train Autoencoder models to do style transfer with a focus on timbre, acoustics(reverb), or both! 
 ### Deployment:
   Demo the model in realtime as well as with some interesting precomputed examples. Maybe with flask app but more likely steamlit either way utilizing Magenta.js
-## Proposal2:
-### Data, Sources:
-### Abstract:
-### Deployment:
-## Proposal3:
-### Data, Sources:
-### Abstract:
-### Deployment:
+
+##[Presentation](https://www.canva.com/design/DAEc4QKYCtw/BbFsCW53gDEnaWwwv-ckvg/edit)
