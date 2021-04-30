@@ -1,5 +1,6 @@
 # Timbre Transfer Demonstration using DDSP:
 ## DSP-informed Approaches to Sound Style Transfer networks
+## [Presentation](https://www.canva.com/design/DAEc4QKYCtw/BbFsCW53gDEnaWwwv-ckvg/edit)
 ### Data, Sources:
 [A Good Selection of Possible Datasets to both train/transfer](https://www.upf.edu/web/mtg/software-datasets)
 ```bibtex
@@ -30,4 +31,3 @@
 ### Deployment:
   Demo the model in realtime as well as with some interesting precomputed examples. Maybe with flask app but more likely steamlit either way utilizing Magenta.js
 
-## [Presentation](https://www.canva.com/design/DAEc4QKYCtw/BbFsCW53gDEnaWwwv-ckvg/edit)
